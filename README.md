@@ -9,6 +9,10 @@ jquery.one()はjqueryに選択された、オブジェクトに一度だけイ�
 jqueryによって選択されたオブジェクトが複数だった時に
 oneでバインドしたイベントが発生した場合、すべてのオブジェクトに指定したハンドラが解除されるかの確認です。
 
+こちらのリンクで確認できます。
+
+[http://prinum.github.io/jquery_one/](http://prinum.github.io/jquery_one/)
+
 ```html:index.html
 
 <body>
